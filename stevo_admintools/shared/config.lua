@@ -29,9 +29,9 @@ Config.Reports = {
     NoDoingTitle = 'Invalid Entry',
     NoDoing = 'You must provide a valid description of what you were doing when you experienced the bug!',
     PlayerReportRoles = '<@&put role id here>',
-    PlayerReportWebhook = 'https://discord.com/api/webhooks/1072674984146768013/47RLDTfk47oRopZPuLgLB_LMeGPGh5WQBwh730g_AFHfno6gZqK-W_vdf01ziNw96BWm',
+    PlayerReportWebhook = 'PUT WEBHOOK HERE',
     BugReportRoles = '<@&put role id here>', 
-    BugReportWebhook = 'https://discord.com/api/webhooks/1072674984146768013/47RLDTfk47oRopZPuLgLB_LMeGPGh5WQBwh730g_AFHfno6gZqK-W_vdf01ziNw96BWm',
+    BugReportWebhook = 'PUT WEBHOOK HERE',
 }
 
 Config.Warnings = {
