@@ -7,9 +7,13 @@
 
 1. Extract stevo_admintools
 
-2. Place 'start stevo_moneywash' into your server cfg
+2. Add Webhooks in shared/config.lua
 
-3. Restart your server
+3. Add Roles to be pinged in shared/config.lua
+
+4. Place 'start stevo_moneywash' into your server cfg
+
+5. Restart your server
 
 
 ## Support
