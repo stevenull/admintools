@@ -39,7 +39,7 @@ Config.Warnings = {
     --- Menus
     ReportReceiveTitle = '⚠️ Warning ⚠️',
     ReportReceiveDesc = 'You have received a Warning from a Staff member for ',
- 
+    RequiredGroup = 'group.admin', -- Put your staff group here
     --- Notifications   
     NoPlayerIDTitle = 'Invalid Entry',
     NoPlayerID = 'You must include a valid player id!',
