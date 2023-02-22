@@ -1,5 +1,5 @@
 
-lib.addCommand('group.admin', {'warnplayer'}, function(source, args)
+lib.addCommand('config.requiredgroup', {'warnplayer'}, function(source, args)
     TriggerClientEvent('stevo_admintools:warnings:warnplayer', source)
 end)
 
