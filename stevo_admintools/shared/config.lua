@@ -6,7 +6,7 @@ Config.Reports = {
     Cooldown = 30000, -- Set this to 0 to not have a report cooldown
     CooldownActiveTitle = 'Cooldown Active',
     CooldownActive = 'You must wait before making another report!',
-
+    requiredgroup = 'group.admin',
     --- Menus
     PlayerMenuTitle = 'Report a Player 👦',
     BugMenuTitle = 'Report a Bug 🐞',
